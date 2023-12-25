@@ -1,7 +1,7 @@
 # KeywordKings
 SEO keyword scraper with multiple platform support.
 ### [exe download](https://github.com/MachineKillin/KeywordKings/releases/download/v1/KeywordKing.exe)
-### [avine discord](https://discord.gg/PCYTj7MFSE)
+### [avine discord](https://discord.gg/bFUKufJp6X)
 ### [github discord](https://discord.com/invite/JcAvQc797r)
 
 ## Features
